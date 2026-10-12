@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade",
+  "description": "Indian Share Market & Demat Platform combining Zerodha Kite, Upstox Pro, and Groww interfaces with real-time charts, indicators, option strategies, custom trades, and a customizable P&L dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
